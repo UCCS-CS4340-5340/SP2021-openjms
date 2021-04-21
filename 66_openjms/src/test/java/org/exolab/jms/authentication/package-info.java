@@ -1,0 +1,1 @@
+package org.exolab.jms.authentication;

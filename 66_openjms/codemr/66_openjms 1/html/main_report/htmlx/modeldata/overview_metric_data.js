@@ -1,0 +1,1 @@
+var CodeMR_ProjectMetrics = {"Project Name":"66_openjms", "Number of Highly Problematic Classes":1, "Number of Entities":659, "Number of Problematic Classes":48, "Class Lines of Code":38366, "Number of External Packages":80, "Number of Packages":49, "Number of External Entities":696}
